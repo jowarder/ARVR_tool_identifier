@@ -11,3 +11,6 @@ In the APP license Key: Copy the License Key and delete it.
 Again Select ARCamera and then open Vuforia Engine Configuration.
 Paste the License key
 The APP should run without giving any error.
+
+
+***For the Tool Identifcation: There is a separate folder named " Tools " All the images will be there which you can place infront of the camera to identify the object.***
