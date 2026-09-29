@@ -1,5 +1,5 @@
 # ARVR_tool_identifier
-Course Instructor: Wenhao Yang
+Course Instructor: Wenhao Yang |
 Tool Identifier with task
 
 The project was developed using unity and vuforia. In most of the cases, the project runs without giving any API issues related to vurforia. However, if you face error message like "Vuforia Engine Initialization"
